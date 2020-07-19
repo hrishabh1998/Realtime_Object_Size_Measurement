@@ -6,3 +6,7 @@ Given that we have a list of contours and their bounding boxes, we can now find 
  
  # Contours Function
  Contours are defined as the line joining all the points along the boundary of an image that are having the same intensity. Contours come handy in shape analysis, finding the size of the object of interest, and object detection. OpenCV has findContour() function that helps in extracting the contours from the image.
+
+# Libraries used
+1. Open CV
+2. Numpy
